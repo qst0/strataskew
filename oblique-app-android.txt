@@ -1,13 +1,3 @@
-# Strataskew
-
-Based on [The Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
-Which can be purchased with regards to their creators [here](http://www.enoshop.co.uk/product/oblique-strategies?filter=Oblique%20Strategies)
-
-Checkout [the strategies](https://github.com/qst0/strataskew/blob/master/stoney.oblique.txt) [scraped](https://github.com/qst0/strataskew/blob/master/) from [stoney.sb/eno](http://stoney.sb.org/eno/oblique.html)
-
-# Stratagems
-
-<pre>
 A line has two sides
 A very small object - Its centre
 Abandon normal instructions
@@ -170,16 +160,3 @@ You are an engineer
 You can only make one dot at a time.
 You don't have to be ashamed of using your own ideas.
 Your mistake was a hidden intention
-</pre>
-
-# TODO
-
-* Clean up the typos and non sense senarios
-* Write more history on the origins
-* Take each stratagem apart
-
-# More
-
-Intrested in things like this?
-Maybe you would find [creativethink.com](http://creativethink.com/) intresting.
-[Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) might be a good ancient inspiration
